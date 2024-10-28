@@ -38,7 +38,7 @@ function App() {
     <div
       className="min-h-screen flex flex-col justify-center items-center p-6"
       style={{
-        backgroundImage: `url('public/gif.gif')`,
+        backgroundImage: `url('src/assets/img.jpg')`,
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
